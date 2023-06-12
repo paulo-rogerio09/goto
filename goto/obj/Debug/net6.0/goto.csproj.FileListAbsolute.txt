@@ -1,0 +1,15 @@
+C:\Users\secun\source\repos\goto\goto\bin\Debug\net6.0\goto.exe
+C:\Users\secun\source\repos\goto\goto\bin\Debug\net6.0\goto.deps.json
+C:\Users\secun\source\repos\goto\goto\bin\Debug\net6.0\goto.runtimeconfig.json
+C:\Users\secun\source\repos\goto\goto\bin\Debug\net6.0\goto.dll
+C:\Users\secun\source\repos\goto\goto\bin\Debug\net6.0\goto.pdb
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.csproj.AssemblyReference.cache
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.AssemblyInfoInputs.cache
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.AssemblyInfo.cs
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.csproj.CoreCompileInputs.cache
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.dll
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\refint\goto.dll
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.pdb
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\goto.genruntimeconfig.cache
+C:\Users\secun\source\repos\goto\goto\obj\Debug\net6.0\ref\goto.dll
